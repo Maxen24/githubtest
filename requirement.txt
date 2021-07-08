@@ -3,3 +3,5 @@ emoji
 typing
 colors
 vibrant
+dark mode
+video calls
